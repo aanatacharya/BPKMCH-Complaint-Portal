@@ -1,0 +1,6 @@
+pydantic-settings
+sqlalchemy
+alembic
+pymysql
+"passlib[bcrypt]"
+"python-jose[cryptography]"
